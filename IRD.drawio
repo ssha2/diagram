@@ -1,1 +1,47 @@
-<mxfile host="app.diagrams.net" modified="2021-02-24T11:26:58.749Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="iXdRzpY2i_Ob9jvMk-3N" version="14.4.2" type="device"><diagram id="lc-m84Ufgp3q90dNsxzr" name="BackEnd">5VjbcpswEP0aP8bD3fZj7KTpTNNJpp7p5VHAAkpkRITwpV/fBQQYgx03ccd1+xJrj26r1TmrDQNztljfCZJEn7kPbGBo/npg3gwMQ9f1Ef7kyKZEnNGkBEJBfTWoAeb0JyhQU2hGfUhbAyXnTNKkDXo8jsGTLYwIwVftYQFn7V0TEkIHmHuEddFv1JdRiY5trcE/Ag2jamddUz0LUg1WQBoRn6+2IPN2YM4E57JsLdYzYHnwqriU8z7s6a0dExDLYybM4uuJG1yTILubfBefXtwb37iylW9yUx0YfDy/MrmQEQ95TNhtg04Fz2If8lU1tJox95wnCOoIPoGUG3WZJJMcoUgumOot98w32nsUBaU8Ex4c8L+iBBEhyAPjrDrgyFTgC5Big/MEMCLpsu0HUZQJ63FNVLGhAvsbQVbrLgnL1E73NJWI8AD/zD2IkeG799CO8iqiEuYJKYKxQqm1IxpQxmaccVHMNYMgMDwP8VQK/gxbPb7jOrZT38EShIT14VvoRk1NsC01RUnbtBTTV41Q9Ir90ZZIHO0PBdo5B5sxWmLzfdv4kS82tCvzZq0WL62Nsk6oAuMSVGAcVMEXSDMm/wUZWOa5ZaCbF57VrSP5rNvvJLSa+shpLJsbrZ9sdaOGZbeXKB1Ts3Yuq3bj7fdndZTylaY0d/DBfcIiB724HhgOw9BMXYGtMG8V74jexfGXLHKhxG6aFLbWA5X6w8b7VzDevcJwONxzvt6eSz3hjkZfSW4kTcoCN6DrXKdTwmgYo80gkN3k5xMYB73Jz/HG4AanSX6m3paKWSXD7eRn9yS/Gjx99rPOWwUMNcy/rUrAmoxeqQUK6xEExRCAOH2BMPq/E+roYOnxKPgS/8kUF1l8mDuR1c9efGidMF5W8TE+UiujcxbT4w6jt1is+SAJZafmMzh7+DyauJp2Gj4747+Oz3Yn1NXrnyYkrt7/qkLLN0MS8KwxPEYhbsyEisbAjrSvmJh2weqCjxxeIbjPtp9t37fI4bxk+ZeoKd6dvFKlBVaZWlFd1L27x60K0mM2a2NdT4/wfYfPaUSSvOllLrxOaLdk/71bA8R7DgtNPGSS0RgU7hPx/IDLUFm8z0PNboNGgfZoxLdh7Ft9GhkbrumcKufvSETrkYjTV3K9QSNoNl8oy+e4+c5r3v4C</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-24T11:33:27.346Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="AdMhn4uO58Tqp5MwEDMZ" version="14.4.2" type="github">
+  <diagram id="lc-m84Ufgp3q90dNsxzr" name="BackEnd">
+    <mxGraphModel dx="782" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CnA9bfAafuG9XrKqbDd2-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CnA9bfAafuG9XrKqbDd2-1" target="CnA9bfAafuG9XrKqbDd2-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CnA9bfAafuG9XrKqbDd2-1" value="List of Scenes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="541" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CnA9bfAafuG9XrKqbDd2-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="CnA9bfAafuG9XrKqbDd2-2" target="CnA9bfAafuG9XrKqbDd2-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CnA9bfAafuG9XrKqbDd2-2" value="List of Results" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="541" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CnA9bfAafuG9XrKqbDd2-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CnA9bfAafuG9XrKqbDd2-4" target="CnA9bfAafuG9XrKqbDd2-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="245" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CnA9bfAafuG9XrKqbDd2-4" value="Visit Objects:&lt;br&gt;Scene1&lt;br&gt;&amp;nbsp; &amp;nbsp; Result 1&lt;br&gt;&amp;nbsp; &amp;nbsp; Result 2&lt;br&gt;&amp;nbsp; &amp;nbsp; Result ...&lt;br&gt;Scene...&lt;br&gt;&amp;nbsp; &amp;nbsp; Result 1&lt;br&gt;&amp;nbsp; &amp;nbsp; Result 2&lt;br&gt;&amp;nbsp; &amp;nbsp; Result ..." style="whiteSpace=wrap;html=1;aspect=fixed;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="310" y="341" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="CnA9bfAafuG9XrKqbDd2-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.013;entryY=0.497;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="CnA9bfAafuG9XrKqbDd2-7" target="CnA9bfAafuG9XrKqbDd2-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="245" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CnA9bfAafuG9XrKqbDd2-7" value="List of Providers" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="530" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CnA9bfAafuG9XrKqbDd2-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CnA9bfAafuG9XrKqbDd2-8" target="CnA9bfAafuG9XrKqbDd2-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CnA9bfAafuG9XrKqbDd2-8" value="Providers details" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="680" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CnA9bfAafuG9XrKqbDd2-15" value="&lt;span&gt;Visit / rout / client / pirt / ents&lt;br&gt;+&lt;br&gt;Provider&lt;br&gt;+&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;Visit Objects&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="50" y="200" width="160" height="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
