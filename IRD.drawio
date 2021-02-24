@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-24T12:13:48.432Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="qruQgIrDLOryxz4Ozk6V" version="14.4.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-02-24T12:20:19.226Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="lkc-NmK7h90m2AJbPD0v" version="14.4.2" type="github" pages="3">
   <diagram id="lc-m84Ufgp3q90dNsxzr" name="Back End Scheme">
     <mxGraphModel dx="1117" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -154,18 +154,30 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Bf9KkXgQPLuXtY3lthqC" name="Front End UI Elems">
-    <mxGraphModel dx="920" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1117" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="rQ7pP8dw31VUTpD60q7r-0" />
         <mxCell id="rQ7pP8dw31VUTpD60q7r-1" parent="rQ7pP8dw31VUTpD60q7r-0" />
-        <mxCell id="4dXByk4_jcM1iA1UxI9x-0" value="Scene 1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="rQ7pP8dw31VUTpD60q7r-1">
-          <mxGeometry x="150" y="60" width="120" height="60" as="geometry" />
+        <mxCell id="Ahg4akSCFClWvg9TeHIE-6" value="&amp;nbsp;Visit level" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;dashed=1;align=left;verticalAlign=top;" vertex="1" parent="rQ7pP8dw31VUTpD60q7r-1">
+          <mxGeometry x="70" y="400" width="730" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="4dXByk4_jcM1iA1UxI9x-1" value="Scene 2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="rQ7pP8dw31VUTpD60q7r-1">
-          <mxGeometry x="390" y="60" width="120" height="60" as="geometry" />
+        <mxCell id="Ahg4akSCFClWvg9TeHIE-5" value="&amp;nbsp;Scene level" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;dashed=1;align=left;verticalAlign=top;" vertex="1" parent="rQ7pP8dw31VUTpD60q7r-1">
+          <mxGeometry x="70" y="100" width="730" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="4dXByk4_jcM1iA1UxI9x-2" value="Scene 3" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="rQ7pP8dw31VUTpD60q7r-1">
-          <mxGeometry x="610" y="60" width="120" height="60" as="geometry" />
+        <mxCell id="4dXByk4_jcM1iA1UxI9x-0" value="IR Scene 1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="rQ7pP8dw31VUTpD60q7r-1">
+          <mxGeometry x="180" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4dXByk4_jcM1iA1UxI9x-1" value="IR Scene 2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="rQ7pP8dw31VUTpD60q7r-1">
+          <mxGeometry x="420" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4dXByk4_jcM1iA1UxI9x-2" value="IR Scene .." style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="rQ7pP8dw31VUTpD60q7r-1">
+          <mxGeometry x="640" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ahg4akSCFClWvg9TeHIE-0" value="IR Current Visit" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="rQ7pP8dw31VUTpD60q7r-1">
+          <mxGeometry x="200" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ahg4akSCFClWvg9TeHIE-1" value="IR History Visits" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="rQ7pP8dw31VUTpD60q7r-1">
+          <mxGeometry x="440" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
